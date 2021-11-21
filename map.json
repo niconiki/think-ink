@@ -1480,7 +1480,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"D:\/Dropbox (NextStep S.a.s.)\/Progetti\/Think Inc\/Tiled File\/Public map\/floortileset_public.png",
+         "image":"floortileset_public.png",
          "imageheight":1024,
          "imagewidth":320,
          "margin":0,
@@ -5423,12 +5423,12 @@
         }, 
         {
          "firstgid":857,
-         "source":"C:\/Users\/nlazz\/Desktop\/animazioni_complete.tsx"
+         "source":"animazioni_complete.tsx"
         }, 
         {
          "columns":10,
          "firstgid":962,
-         "image":"..\/Think-Inc-Public\/floortileset_public.png",
+         "image":"floortileset_public.png",
          "imageheight":1024,
          "imagewidth":320,
          "margin":0,
@@ -6306,7 +6306,7 @@
         {
          "columns":12,
          "firstgid":1282,
-         "image":"..\/Think-Inc-Public\/furnitureset.png",
+         "image":"furnitureset.png",
          "imageheight":1216,
          "imagewidth":384,
          "margin":0,
@@ -8398,7 +8398,7 @@
         }, 
         {
          "firstgid":1738,
-         "source":"C:\/Users\/nlazz\/Desktop\/reception_animated.tsx"
+         "source":"reception_animated.tsx"
         }],
  "tilewidth":32,
  "type":"map",
