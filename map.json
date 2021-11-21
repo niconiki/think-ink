@@ -291,7 +291,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/moscot-campaign-video\/"
+                         "value":"https:\/\/thinkinc.de\/illy-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -314,7 +314,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/moscot-campaign-video\/"
+                         "value":"https:\/\/thinkinc.de\/k-swiss-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1241,21 +1241,6 @@
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":20,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-4\/"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
