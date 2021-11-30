@@ -1236,6 +1236,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/archive.org\/embed\/msdos_Ms._Pac-Man_1983"
@@ -1258,6 +1263,11 @@
          "name":"Pong",
          "opacity":1,
          "properties":[
+                {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
