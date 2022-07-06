@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/thinkinc.de\/mascotte\/"
+                 "value":"https:\/\/old.thinkinc.de\/mascotte\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -51,7 +51,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/kyte-surf\/"
+                         "value":"https:\/\/old.thinkinc.de\/kyte-surf\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -74,7 +74,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/contact-us\/"
+                         "value":"https:\/\/old.thinkinc.de\/contact-us\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -97,7 +97,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/client-cloud\/"
+                         "value":"https:\/\/old.thinkinc.de\/client-cloud\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -120,7 +120,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/instagram\/"
+                         "value":"https:\/\/old.thinkinc.de\/instagram\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -153,7 +153,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-1\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-1\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -176,7 +176,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-3\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-3\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -199,7 +199,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-3\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-3\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -222,7 +222,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-4\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-4\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -245,7 +245,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-5\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-5\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -268,7 +268,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-6\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-6\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -291,7 +291,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-7\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-7\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -314,7 +314,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-8\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-8\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -337,7 +337,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-9\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-9\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -360,7 +360,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-10\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-10\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -383,7 +383,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/best-cases-11\/"
+                         "value":"https:\/\/old.thinkinc.de\/best-cases-11\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -416,7 +416,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/stone-island\/"
+                         "value":"https:\/\/old.thinkinc.de\/stone-island\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -439,7 +439,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/american-vintage-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/american-vintage-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -462,7 +462,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/banfi-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/banfi-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -485,7 +485,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/castello-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/castello-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -508,7 +508,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/dopper-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/dopper-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -531,7 +531,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/doucal-s-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/doucal-s-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -554,7 +554,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/esemplare-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/esemplare-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -577,7 +577,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/illy-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/illy-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -600,7 +600,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/k-swiss-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/k-swiss-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -623,7 +623,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/moscot-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/moscot-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -646,7 +646,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/mou-campaign-video"
+                         "value":"https:\/\/old.thinkinc.de\/mou-campaign-video"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -669,7 +669,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/north-sails-campaign-video"
+                         "value":"https:\/\/old.thinkinc.de\/north-sails-campaign-video"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -692,7 +692,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/ponte-campaign-video"
+                         "value":"https:\/\/old.thinkinc.de\/ponte-campaign-video"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -715,7 +715,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/saucony-campaign-video"
+                         "value":"https:\/\/old.thinkinc.de\/saucony-campaign-video"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -738,7 +738,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/save-the-duck-campaign-video"
+                         "value":"https:\/\/old.thinkinc.de\/save-the-duck-campaign-video"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -761,7 +761,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/van-laack-campaign-video\/"
+                         "value":"https:\/\/old.thinkinc.de\/van-laack-campaign-video\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -794,7 +794,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/van-laack\/"
+                         "value":"https:\/\/old.thinkinc.de\/van-laack\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -817,7 +817,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/save-the-duck\/"
+                         "value":"https:\/\/old.thinkinc.de\/save-the-duck\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -840,7 +840,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/saucony\/"
+                         "value":"https:\/\/old.thinkinc.de\/saucony\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -863,7 +863,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/ponte-prosecco\/"
+                         "value":"https:\/\/old.thinkinc.de\/ponte-prosecco\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -886,7 +886,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/north-sails\/"
+                         "value":"https:\/\/old.thinkinc.de\/north-sails\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -909,7 +909,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/mou\/"
+                         "value":"https:\/\/old.thinkinc.de\/mou\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -932,7 +932,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/moscot\/"
+                         "value":"https:\/\/old.thinkinc.de\/moscot\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -955,7 +955,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/k-swiss\/"
+                         "value":"https:\/\/old.thinkinc.de\/k-swiss\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -978,7 +978,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/illy\/"
+                         "value":"https:\/\/old.thinkinc.de\/illy\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1001,7 +1001,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/esemplare\/"
+                         "value":"https:\/\/old.thinkinc.de\/esemplare\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1024,7 +1024,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/doucal-s\/"
+                         "value":"https:\/\/old.thinkinc.de\/doucal-s\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1047,7 +1047,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/dopper\/"
+                         "value":"https:\/\/old.thinkinc.de\/dopper\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1070,7 +1070,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/dondup\/"
+                         "value":"https:\/\/old.thinkinc.de\/dondup\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1093,7 +1093,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/castello-di-ugento\/"
+                         "value":"https:\/\/old.thinkinc.de\/castello-di-ugento\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1116,7 +1116,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/canadian-classic\/"
+                         "value":"https:\/\/old.thinkinc.de\/canadian-classic\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1139,7 +1139,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/banfi\/"
+                         "value":"https:\/\/old.thinkinc.de\/banfi\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1162,7 +1162,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/arys\/"
+                         "value":"https:\/\/old.thinkinc.de\/arys\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1185,7 +1185,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/thinkinc.de\/american-vintage\/"
+                         "value":"https:\/\/old.thinkinc.de\/american-vintage\/"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1215,7 +1215,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/thinkinc.de\/meet-filippo\/"
+                 "value":"https:\/\/old.thinkinc.de\/meet-filippo\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1238,7 +1238,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/thinkinc.de\/meet-mousse-t\/"
+                 "value":"https:\/\/old.thinkinc.de\/meet-mousse-t\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1335,7 +1335,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/thinkinc.de\/reception\/"
+                 "value":"https:\/\/old.thinkinc.de\/reception\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
